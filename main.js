@@ -27,6 +27,12 @@ const teclaParaBotao = {
   "KeyI": "#som_tecla_tim", // Tecla "i" para o botão .tecla_tim
   "KeyY": "#som_tecla_pom", // Tecla "y" para o botão .tecla_pom
   "KeyU": "#som_tecla_psh", // Tecla "u" para o botão .tecla_psh
+  "KeyH": "#som_tecla_puff", // Tecla "h" para o botão .tecla_puff 
+  "KeyJ": "#som_tecla_clap", // Tecla "j" para o botão .tecla_clap
+  "KeyK": "#som_tecla_tic", // Tecla "k" para o botão .tecla_tic
+  "KeyA": "#som_tecla_tom", // Tecla "a" para o botão .tecla_tom
+  "KeyS": "#som_tecla_splash", // Tecla "s" para o botão .tecla_splash
+  "KeyD": "#som_tecla_toim", // Tecla "d" para o botão .tecla_toim
   // Adicione mais mapeamentos conforme necessário
 };
 
